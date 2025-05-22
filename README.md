@@ -69,4 +69,3 @@ This project was completed as part of a multidisciplinary design initiative to a
 I’m Kaviyan Jeyakumar, a junior Electrical Engineering student at the University of Waterloo. I’m passionate about designing hardware systems that merge technical performance with human impact. If you’re working on accessibility-focused devices or embedded systems, I’d love to connect!
 
 📫 kaviyan.n.jeyakumar@gmail.ca
-🔗 LinkedIn • GitHub
